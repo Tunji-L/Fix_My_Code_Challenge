@@ -1,4 +1,4 @@
-Fix my code is a project where we will jump into an existing code base and fix it!
+Fix my code is a project where we'll jump into an existing code base and fix it!
 
 Please download the repository [here](https://github.com/holbertonschool/0x00-Fix_My_Code_Challenge) and use it as initial files for all solutions.
 
