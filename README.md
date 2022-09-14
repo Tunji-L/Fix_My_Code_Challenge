@@ -5,4 +5,4 @@ Please download the repository [here](https://github.com/holbertonschool/0x00-Fi
 1. FizzBuzz: implementation of FizzBuzz in Python
 > Usage: `./0-fizzbuzz.py <number> (ex: ./0-fizzbuzz.py 50)
 
-Cheking jenkins
+Cheking
